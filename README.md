@@ -1,1 +1,3 @@
 # Pseudo-Ecualizador-Matlab
+
+mas informacion mas adelante... 
